@@ -10,3 +10,4 @@ https://leetcode.com/Pineapplesz/
 ### Math:
 
 - [x] Reverse Integer
+- [x] Palindrome Number
