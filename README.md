@@ -3,9 +3,10 @@ https://leetcode.com/Pineapplesz/
 
 ## Solved Challenges
 
-### Strings:
+### String:
 
 - [x] Two Sum
+- [x] Valid Parentheses
 
 ### Array:
 
