@@ -17,6 +17,6 @@ https://leetcode.com/Pineapplesz/
 - [x] Reverse Integer
 - [x] Palindrome Number
 
-|### Others:|
+### Others:
 
 - [x] Counter
