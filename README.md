@@ -20,3 +20,4 @@ https://leetcode.com/Pineapplesz/
 ### Others:
 
 - [x] Counter
+- [x] Counter II
