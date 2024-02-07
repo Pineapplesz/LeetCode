@@ -17,6 +17,11 @@ https://leetcode.com/Pineapplesz/
 - [x] Reverse Integer
 - [x] Palindrome Number
 
+### Promises and time:
+
+- [x] Add Two Promises
+
+
 ### Others:
 
 - [x] Counter
