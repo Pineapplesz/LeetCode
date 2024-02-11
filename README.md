@@ -20,6 +20,7 @@ https://leetcode.com/Pineapplesz/
 ### Promises and time:
 
 - [x] Add Two Promises
+- [x] Sleep
 
 
 ### Others:
