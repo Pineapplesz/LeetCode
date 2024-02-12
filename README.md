@@ -11,6 +11,7 @@ https://leetcode.com/Pineapplesz/
 ### Array:
 
 - [x] Container With Most Water
+- [x] Apply Transform Over Each Element in Array
 
 ### Math:
 
