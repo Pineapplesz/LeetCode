@@ -32,3 +32,4 @@ https://leetcode.com/Pineapplesz/
 - [x] Counter
 - [x] Counter II
 - [x] Function Composition
+- [x] Allow One Function Call
