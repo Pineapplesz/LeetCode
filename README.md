@@ -14,6 +14,7 @@ https://leetcode.com/Pineapplesz/
 - [x] Apply Transform Over Each Element in Array
 - [x] Filter Elements from Array
 - [x] Array Reduce Transformation
+- [x] Return Length of Arguments Passed
 
 ### Math:
 
