@@ -33,3 +33,4 @@ https://leetcode.com/Pineapplesz/
 - [x] Counter II
 - [x] Function Composition
 - [x] Allow One Function Call
+- [x] Add Two Numbers(Collections)
