@@ -34,3 +34,4 @@ https://leetcode.com/Pineapplesz/
 - [x] Function Composition
 - [x] Allow One Function Call
 - [x] Add Two Numbers(Collections)
+- [x] To Be Or Not To Be (Jest)
